@@ -1,5 +1,5 @@
 import java.util.*;
-public class main{
+public class NUMBERGUESSING{
     public static void main(String[] args) {
         Random ra=new Random();
         Scanner sc=new Scanner(System.in);
